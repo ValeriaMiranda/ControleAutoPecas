@@ -1,0 +1,1 @@
+Estas são as primeiras dicas do projeto.
